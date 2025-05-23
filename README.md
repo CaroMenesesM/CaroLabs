@@ -63,7 +63,7 @@
         I'm a multifaceted professional with a passion for people, languages and nature. With over 15 years of professional experience, I've worked across the Diplomatic & Tech/Web3 sectors, leveraging technology to provide actionable solutions and insights.
       </p>
       <p>
-        As an Marketing professional, I enjoy connecting with leaders from different walks of life and industries to support their marketing efforts.
+        As a Marketing professional, I enjoy connecting with leaders from different walks of life and industries to support their marketing efforts.
       </p>
       <p>
         <a href="[https://drive.google.com/file/d/1TMRPKfIOcrdzMTjsewiZS955P5vUz9R-/view?usp=sharing]">View my resume</a>
