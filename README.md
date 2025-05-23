@@ -66,18 +66,18 @@
         As an Marketing professional, I enjoy connecting with leaders from different walks of life and industries to support their marketing efforts.
       </p>
       <p>
-        <a href="[link-to-resume.pdf]">View my resume</a>
+        <a href="[https://drive.google.com/file/d/1TMRPKfIOcrdzMTjsewiZS955P5vUz9R-/view?usp=sharing]">View my resume</a>
       </p>
     </div>
     
     <div class="section">
-      <h2><span class="emoji">🚀</span>[MarkeTeam]</h2>
+      <h2><span class="emoji">🚀</span>MarkeTeam</h2>
       
       <p>
         As the founder of <strong>[MarkeTeam]</strong>, I help you define a social media strategy aimed at making your online presence stand out, through engaging and accessible content. My goal is to understand your/your business needs to unlock the power of your experience or professional offer. 
       </p>
       <p>
-        Learn more at: <a href="[Marketeam.pt]">[marketeam.pt]</a> Site under construction.
+        Learn more at: <a href="[Marketeam.pt]">[marketeam.pt]</a> Note: Site under construction.
       </p>
     </div>
     
