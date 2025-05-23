@@ -74,7 +74,7 @@
       <h2><span class="emoji">🚀</span>MarkeTeam</h2>
       
       <p>
-        As the founder of <strong>[MarkeTeam]</strong>, I help you define a social media strategy aimed at making your online presence stand out, through engaging and accessible content. My goal is to understand your/your business needs to unlock the power of your experience or professional offer. 
+        As the founder of <strong>MarkeTeam</strong>, I help you define a social media strategy aimed at making your online presence stand out, through engaging and accessible content. My goal is to understand your/your business needs to unlock the power of your experience or professional offer. 
       </p>
       <p>
         Learn more at: <a href="[Marketeam.pt]">[marketeam.pt]</a> Note: Site under construction.
